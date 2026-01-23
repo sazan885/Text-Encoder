@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Crypto - Per-Encode Key Rotation",
+  "description": "A secure encoding/decoding system that generates a unique 256-bit AES key for every single operation, bundling the key and authentication tag into a self-contained secure package.",
+  "requestFramePermissions": []
+}
